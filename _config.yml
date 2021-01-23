@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome to Costin’s homepage!
 description: Feel free to bookmark this to keep an eye on my project updates
+github:
+  is_project_page: false
